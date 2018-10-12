@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "devopsbuddy",
+                "projectName": "devopsbuddy",
+                "workingDirectory": "/home/ceci/software/testing_repository/devopsbuddy",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "devopsbuddy",
+                "projectName": "devopsbuddy",
+                "workingDirectory": "/home/ceci/software/testing_repository/devopsbuddy",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
